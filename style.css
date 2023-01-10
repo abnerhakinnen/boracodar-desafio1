@@ -1,0 +1,151 @@
+body{
+    background-color: #0F0D13;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+.spotify{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    padding: 20px;
+    margin-top: 30px;
+}
+.player1{
+    display: flex;
+    margin-left: 300px;
+    align-items: center;
+    padding: 10px;
+    background-color: #2A2141;
+    height: 498px;
+    width: 266px;
+    border-radius: 9px;
+    margin-bottom: 20px;
+}
+
+.players{
+    margin-right: 600px;
+
+}
+
+.play2{
+        display: grid;
+        background-color: #2A2141;
+        height: 266px;
+        width: 357px;
+        border-radius: 9px;
+}
+
+.play3{
+        background-color: #2A2141;
+        height: 199.26px;
+        width: 357px;
+        border-radius: 9px;
+        margin-top: 53px;
+    }
+
+.album1{
+    margin: auto;
+    display: block;
+    max-width: 100%;
+    width: 189.66px;
+    height: 189.66px;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.musica{
+    font-size: 24.01px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: -20px;
+    color: #E1E1E6;
+}
+
+.cantor{
+    color: #a4a4a8;
+    font-size: 15px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.album{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.play{
+    max-width: 100%;
+    width: 189.66px;
+    height: 28.81px;
+    margin-left: 40px;
+}
+
+.tempo{
+    max-width: 100%;
+    width: 189.66px;
+    height: 38.6px;
+    margin-left: 40px;
+    position: relative;
+    top: 20px;
+}
+
+.capa1{
+    max-width: 100%;
+    width: 84.03px;
+    height: 84.03px;
+    border-radius: 6px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.music{
+    color: #FFFF;
+    margin-left: 130px;
+    margin-top: -83px;
+}
+
+.sing{
+    color: #a4a4a8;
+    margin-left: 131px;
+    margin-top: -17px;
+    font-weight: normal
+}
+
+.rep{
+    max-width: 100%;
+    width: 170.09pxpx;
+    height: 28.81px;
+    margin-left: 90px;
+    position: relative;
+    top: 8px;
+}
+
+.time{
+    max-width: 100%;
+    width: 260px;
+    height: 6;
+    margin-left: 50px;
+    position: relative;
+    top: 27px;
+}
+
+.min{
+    max-width: 100%;
+    width: 260px;
+    height: 6;
+    margin-left: 50px;
+    position: relative;
+    top: 27px;
+}
+
+.cap{
+    max-width: 100%;
+    width: 84.03px;
+    height: 84.03px;
+    border-radius: 6px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
